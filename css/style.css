@@ -41,6 +41,10 @@ h2 {
   padding: 10px 200px 200px 10px; /* top right bottom left */
 }
 
+img {
+  max-width: 100%;
+}
+
 .baku {
   display: block;
   background-image: url(../images/baku.jpg);
